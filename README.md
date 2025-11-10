@@ -28,5 +28,3 @@ The dashboard tracks four main KPIs:
 * **Data Source:** Simulated/Dummy Hospital Operational Data
 * **Purpose:** To enable **data-driven decision-making** for resource allocation and service optimization.
 
-
-Would you like me to focus on creating a **summary slide** with the most critical findings based on this dashboard, or do you need the **Power BI project file name** to be added to this README?
